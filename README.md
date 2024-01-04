@@ -1,2 +1,2 @@
-CS1026: Computer Science Fundamentals I
-CS1027: Computer Science Fundamentals II
+<strong>CS1026:</strong> Computer Science Fundamentals I\
+<strong>CS1027:</strong> Computer Science Fundamentals II
